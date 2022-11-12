@@ -1,2 +1,6 @@
 It is a new File
+<<<<<<< HEAD
 this file changed. changed in master
+=======
+this file changed. This line was changed int br-3 branch
+>>>>>>> BR-3
